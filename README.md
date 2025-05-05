@@ -7,3 +7,4 @@
 | 國立清華大學 | 資訊安全研究所 | <https://iis.site.nthu.edu.tw> |
 | 國立陽明交通大學 | 資訊安全研究所 | <https://www.cs.nycu.edu.tw/intro/organization/cybersecurity> |
 | 國立成功大學 | 智慧資訊安全碩士學位學程 | <https://csi.ee.ncku.edu.tw> |
+| 國立政治大學 | 資訊安全碩士學位學程 | <https://mpis.nccu.edu.tw> |
