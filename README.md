@@ -10,3 +10,5 @@
 | 國立政治大學 | 資訊安全碩士學位學程 | <https://mpis.nccu.edu.tw> |
 | 國立臺灣科技大學 | 資訊安全科技與管理碩士班 | <https://www.cs.ntust.edu.tw> |
 | 國立臺北科技大學 | 資訊安全碩士學位學程 | <https://ifirst.ntut.edu.tw/p/412-1130-16931.php?Lang=zh-tw> |
+| 國立中山大學 | 資訊安全碩士班 | <https://cse.nsysu.edu.tw/p/412-1205-19723.php?Lang=zh-tw> |
+| 逢甲大學 | 資通安全碩士學位學程 | <https://ics.fcu.edu.tw> |
